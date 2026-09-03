@@ -2,41 +2,98 @@ phpdocx Community License
 
 Copyright (c) Narcea Labs SL
 
-This software is provided under a dual licensing model.
+This Software is provided under a dual licensing model.
 
-1. NON-COMMERCIAL USE
+You may use this Software under the terms of this Community License or, alternatively, under a separate Commercial License available from Narcea Labs SL.
 
-You may use, copy, modify and distribute this software free of charge for non-commercial purposes, subject to the terms of this license.
+By using, copying, modifying or distributing this Software, you agree to the terms of this License.
 
-Non-commercial use includes personal projects, educational use, academic research, experimentation, testing, hobby projects and use by non-profit organizations, provided that the software is not used to provide products or services for commercial benefit.
+1. COMMUNITY USE
 
-2. COMMERCIAL USE
+Community Use includes:
 
-Use of this software for commercial, professional or business purposes requires a separate paid commercial license from Narcea Labs SL.
+- personal projects;
+- self-learning;
+- individual educational purposes;
+- experimentation;
+- evaluation;
+- development;
+- testing.
 
-Commercial use includes, without limitation, using the software to develop, operate or distribute software, products or services that are offered for payment or otherwise generate commercial revenue.
+Organizations may also use the Software free of charge for evaluation, development and testing purposes, provided that the Software is not used in Production and Organizational Use.
 
-A commercial license may be obtained from https://www.phpdocx.com/
+You may use, copy, modify and distribute this Software free of charge for Community Use.
 
-3. DISTRIBUTION
+2. PRODUCTION AND ORGANIZATIONAL USE
 
-You may distribute copies of this software for permitted non-commercial purposes, provided that this license and all copyright notices are retained.
+"Production and Organizational Use" means any use of the Software by, for, or on behalf of an individual, business, organization, institution, government entity or other legal entity in connection with actual activities, operations, services, projects or objectives, whether internal or external, commercial or non-commercial.
 
-4. MODIFICATIONS
+For the avoidance of doubt, any use of the Software that supports or forms part of real-world organizational or professional activities constitutes Production and Organizational Use.
 
-You may modify the software for permitted non-commercial purposes.
+An activity may constitute Production and Organizational Use whether or not it directly generates revenue.
 
-5. NO IMPLIED COMMERCIAL LICENSE
+Production and Organizational Use is not permitted under this Community License.
 
-Nothing in this license grants any right to use the software for commercial purposes. Commercial use requires a separate commercial license.
+3. COMMERCIAL LICENSE REQUIRED
 
-6. COPYRIGHT
+Any Production and Organizational Use requires a valid Commercial License from Narcea Labs SL.
 
-Copyright (c) Narcea Labs SL.
-All rights reserved except as expressly granted by this license.
+A Commercial License is also required for:
 
-7. DISCLAIMER
+- providing products or services to third parties using the Software;
+- deployment in production environments;
+- organizational use outside the Community Use rights expressly granted by this License.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
+Commercial licenses are available from: https://www.phpdocx.com/
 
-IN NO EVENT SHALL THE COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY ARISING FROM THE USE OF THE SOFTWARE.
+4. EVALUATION AND TESTING RESTRICTIONS
+
+Evaluation, development and testing activities permitted under this License must not:
+
+- support actual business operations;
+- support actual organizational activities;
+- replace a Commercial License;
+- provide services to third parties;
+- be used for live production purposes.
+
+5. NO CIRCUMVENTION
+
+This Community License may not be used as a substitute for a Commercial License.
+
+It is prohibited to avoid licensing requirements by:
+
+- splitting deployments;
+- separating users, teams or departments;
+- artificially limiting functionality;
+- labeling production activities as testing or evaluation;
+- creating environments that support production activities while claiming non-production status.
+
+6. DISTRIBUTION
+
+You may distribute copies of the Software for permitted Community Use provided that:
+
+- this License is included with each copy; and all copyright notices are retained.
+
+7. MODIFICATIONS
+
+You may modify the Software for permitted Community Use.
+
+Any distributed modified version remains subject to this License.
+
+8. NO IMPLIED RIGHTS
+
+No rights are granted except as expressly stated in this License.
+
+All rights not expressly granted are reserved by Narcea Labs SL.
+
+9. INTERPRETATION
+
+If there is any doubt whether a particular use is permitted under this Community License, a Commercial License shall be required unless Narcea Labs SL expressly authorizes such use in writing.
+
+Questions regarding licensing may be sent to: contact@phpdocx.com
+
+10. DISCLAIMER
+
+THE Software IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT.
+
+IN NO EVENT SHALL NARCEA LABS SL BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY ARISING FROM THE USE OF THE SOFTWARE.
