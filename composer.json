@@ -1,0 +1,33 @@
+{
+    "name": "phpdocx/phpdocx_community",
+    "description": "phpdocx - Create Word DOCX with PHP",
+    "keywords": [
+        "phpdocx",
+        "docx",
+        "word",
+        "OOXML",
+        "php"
+    ],
+    "homepage": "https://www.phpdocx.com",
+    "type": "library",
+    "license": "proprietary",
+    "authors": [
+        {
+            "name": "NarceaLabs SL"
+        }
+    ],
+    "autoload": {
+        "classmap": [
+            "Classes/Phpdocx"
+        ]
+    },
+    "require": {
+        "php": ">=5.6",
+        "ext-dom": "*",
+        "ext-xml": "*",
+        "ext-exif": "*",
+        "ext-gd": "*",
+        "ext-mbstring": "*",
+        "ext-zip": "*"
+    }
+}

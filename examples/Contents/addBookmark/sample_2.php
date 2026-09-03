@@ -1,0 +1,21 @@
+<?php
+// add a bookmark as a WordFragment
+
+require_once __DIR__ . '/../../../Classes/Phpdocx/Create/CreateDocx.php';
+
+$docx = new Phpdocx\Create\CreateDocx();
+
+$bookmarkStart = new Phpdocx\Elements\WordFragment($docx);
+$bookmarkStart->addBookmark(array('type' => 'start', 'name' => 'bookmark_name'));
+$bookmarkEnd = new Phpdocx\Elements\WordFragment($docx);
+$bookmarkEnd->addBookmark(array('type' => 'end', 'name' => 'bookmark_name'));
+
+$textRuns = array();
+$textRuns[] = array('text' => 'We are only going to bookmark: ');
+$textRuns[] = $bookmarkStart;
+$textRuns[] = array('text' => 'these words.');
+$textRuns[] = $bookmarkEnd;
+
+$docx->addText($textRuns);
+
+$docx->createDocx(__DIR__ . '/example_addBookmark_2');

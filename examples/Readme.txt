@@ -1,0 +1,2 @@
+The samples included in the package use the createDocx method to generate the DOCX. This method saves the DOCX output in the file system, the file is not downloaded.
+To generate and download a DOCX, the createDocxAndDownload method can be used.
