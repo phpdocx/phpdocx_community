@@ -39,6 +39,23 @@ This loads the library classes automatically so you can use the phpdocx classes 
 
 The examples folder contains self-contained samples for all the public methods.
 
+For example, to create a DOCX file containing text with some styles:
+
+```php
+$docx = new Phpdocx\Create\CreateDocx();
+
+$text = 'Lorem ipsum dolor sit amet, consectetur adipisicing elit.';
+
+$paragraphOptions = array(
+    'bold' => true,
+    'font' => 'Arial',
+);
+
+$docx->addText($text, $paragraphOptions);
+
+$docx->createDocx('output');
+```
+
 ## Changelog
 
 See CHANGELOG.md for release notes.
